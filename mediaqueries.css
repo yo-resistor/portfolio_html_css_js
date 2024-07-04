@@ -1,0 +1,11 @@
+@media screen and (max-width: 1200px) {
+  #desktop-nav {
+    display: none;
+  }
+  #hamburger-nav {
+    display: flex;
+  }
+  #hamburger-nav a:hover {
+    text-underline-offset: 0.35rem;
+  }
+}
