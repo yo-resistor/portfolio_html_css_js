@@ -420,3 +420,14 @@ article .icon {
   height: 2.4rem;
   /* change the number to make the logos size look the same*/
 }
+
+/* FOOTER SECTION */
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p {
+  text-align: center;
+}
